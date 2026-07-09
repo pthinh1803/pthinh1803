@@ -52,5 +52,7 @@ I try to keep public repositories clean and useful for portfolio review:
 ## Contact
 
 - GitHub: [github.com/pthinh1803](https://github.com/pthinh1803)
+- Email: [phucxp41@gmail.com](mailto:phucxp41@gmail.com)
+- Phone: [0703352564](tel:0703352564)
+- LinkedIn: [linkedin.com/in/trương-phúc-thịnh-a01495416](https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-ph%C3%BAc-th%E1%BB%8Bnh-a01495416)
 - University: Ho Chi Minh City University of Technology and Education (HCMUTE)
-
